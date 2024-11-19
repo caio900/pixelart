@@ -1,1 +1,1 @@
-# pixelart
+# pixeart
