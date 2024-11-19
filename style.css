@@ -1,0 +1,47 @@
+*{margin: 0;
+  position:relative;
+  left: 150px;
+  border: 0px;
+}
+body{
+    background-color: #ededed;
+}
+
+#amarelo{
+    background-color: #f2e7a4;
+}
+
+#preto{
+    background-color: #080a0c;
+}
+
+#cinza{
+    background-color: #848481;
+}
+
+#azul{
+    background-color: #0face6;
+}
+
+#azulescuro{
+    background-color: #326aa2;
+}
+
+#branco{
+    background-color: white;
+}
+
+#claro{
+    background-color: #d8d5be;
+}
+
+#a{
+    background-color: transparent;
+}
+
+.grade {
+display: grid;
+grid-template-columns: 45px 45px 45px 45px 45px      45px 45px 45px 45px 45px       45px 45px 45px 45px 45px         45px 45px 45px 45px 45px;
+grid-template-rows:   45px 45px 45px 45px 45px      45px 45px 45px 45px 45px       45px 45px 45px 45px 45px         45px 45px 45px 45px 45px ;
+grid-gap: 0px;
+}
